@@ -1,4 +1,4 @@
-# gioi-thieu-hoc-sau
+# Nhận diện thủ ngữ và ngôn ngữ ký hiệu tay
 
 Bài toán nhận diện thủ ngữ và ngôn ngữ ký hiệu tay là một lĩnh vực nghiên cứu trong lĩnh vực thị giác máy tính và xử lý ngôn ngữ tự nhiên. Nó tập trung vào việc nhận diện và hiểu ý nghĩa của các thủ ngữ và ngôn ngữ ký hiệu tay được sử dụng để giao tiếp với người khiếm thính hoặc giảm khả năng nghe. 
 
