@@ -12,5 +12,18 @@ Tuy nhiên, bài toán nhận diện thủ ngữ và ngôn ngữ ký hiệu tay 
 
 =======================================================================================================
 
+Để giải quyết bài toán này, các phương pháp học máy và thị giác máy tính thường được sử dụng, bao gồm:
+
+Deep Learning: Sử dụng mạng nơ-ron sâu để học các đặc trưng phức tạp từ dữ liệu hình ảnh hoặc video.
+
+Convolutional Neural Networks (CNNs): Được sử dụng rộng rãi trong việc xử lý hình ảnh để trích xuất đặc trưng từ hình ảnh.
+
+Recurrent Neural Networks (RNNs) hoặc Transformer Networks: Được sử dụng để xử lý dữ liệu chuỗi như video để nắm bắt thông tin thời gian.
+
+Transfer Learning: Sử dụng các mô hình đã được huấn luyện trước trên dữ liệu lớn để tận dụng kiến thức đã học cho bài toán nhận diện thủ ngữ và ngôn ngữ ký hiệu tay.
+
+Các ứng dụng của bài toán này có thể là các hệ thống hỗ trợ giao tiếp cho người khiếm thính, hệ thống nhận diện cử chỉ để điều khiển các thiết bị điện tử, hoặc cải thiện khả năng tương tác giữa con người và máy tính trong các giao diện người-máy.
+
+=======================================================================================================
 tải models bằng gg drive : https://drive.google.com/file/d/1Hn7k-YGtFfIn6BtlTtW1MchuNywXm9x3/view?usp=sharing
  
