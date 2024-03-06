@@ -25,5 +25,6 @@ Transfer Learning: Sử dụng các mô hình đã được huấn luyện trư�
 Các ứng dụng của bài toán này có thể là các hệ thống hỗ trợ giao tiếp cho người khiếm thính, hệ thống nhận diện cử chỉ để điều khiển các thiết bị điện tử, hoặc cải thiện khả năng tương tác giữa con người và máy tính trong các giao diện người-máy.
 
 =======================================================================================================
+
 tải models bằng gg drive : https://drive.google.com/file/d/1Hn7k-YGtFfIn6BtlTtW1MchuNywXm9x3/view?usp=sharing
  
